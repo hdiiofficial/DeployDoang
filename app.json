@@ -1,17 +1,4 @@
-{
-    "name": "DeployDoang",
-    "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/d76654ee9ce0cbbf437ca.jpg",
-    "keywords": [
-        "pytgcalls",
-        "telegram bot",
-        "video stream",
-        "pyrogram"
-    ],
-    "website": "https://botostore.com/c/hdiiofficial_bot",
-    "repository": "https://github.com/hdiiofficial/DeployDoang",
-    "success_url": "https://t.me/hdiiofficial",
-    "env": {
+
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": true ,
@@ -45,7 +32,7 @@
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
             "required": true ,
-            "value": ""
+            "value": "BQBzjoV7k8F3m3QkIueuMNHnajrQL7HMfy-arxrYQea1aQ4MacRjOST2mWuPhjpON7x1m_NMUrjvcG8or5QfXSXNHRRzzS3lbFrXCMLIWD8zl1ejs2wPt5K4ZI5L_zUATG5UGBeyWmCEFO8lVwUllGEbxaGR22BfhceAaazrS25IOwu0REDgIt_3l_V4In1rPXcTvrVb0Gv2IIS3icTUfSlu3FKN9oObU7GbeRzLOHh6cMQ_rJkiyuGI7g2dL15crIcnpK7TVMNjpCSlhgQZ-KXhAOEYdCTZv4SHXwexAzMeieDBY5t388q1_jzvcO1Jx4--1vgXJLmV5Tzv_qyh87BZfztTUwA"
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
