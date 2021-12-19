@@ -40,7 +40,7 @@
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
             "required": true ,
-            "value": "AssistentAlvieroo"
+            "value": "AssistentAlviero"
         },
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
@@ -70,7 +70,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": ""
+            "value": "AssistentAlviero"
         },
        "ALIVE_IMG": {
             "description": "ALIVE BUAT FOTO PAS COMMAND ALIVE",
