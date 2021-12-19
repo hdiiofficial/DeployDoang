@@ -50,12 +50,12 @@
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
             "required": true ,
-            "value": "1"
+            "value": "2002110095"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "i"
+            "value": "angelsigh"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
@@ -70,7 +70,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "h"
+            "value": ""
         },
        "ALIVE_IMG": {
             "description": "ALIVE BUAT FOTO PAS COMMAND ALIVE",
