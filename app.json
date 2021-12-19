@@ -20,7 +20,7 @@
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
             "required": true ,
-            "value" : "4"
+            "value" : "60f007fd751b1d9c6e3e253c0fa809d0"
         },
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
